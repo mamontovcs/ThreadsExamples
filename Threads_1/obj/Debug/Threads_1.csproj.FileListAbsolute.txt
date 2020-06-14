@@ -1,0 +1,6 @@
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_1\bin\Debug\ConsoleApp17.exe.config
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_1\bin\Debug\ConsoleApp17.exe
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_1\bin\Debug\ConsoleApp17.pdb
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_1\obj\Debug\Threads_1.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_1\obj\Debug\ConsoleApp17.exe
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_1\obj\Debug\ConsoleApp17.pdb
