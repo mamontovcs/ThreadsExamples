@@ -1,0 +1,7 @@
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_4\bin\Debug\Threads_4.exe.config
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_4\bin\Debug\Threads_4.exe
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_4\bin\Debug\Threads_4.pdb
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_4\obj\Debug\Threads_4.csprojAssemblyReference.cache
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_4\obj\Debug\Threads_4.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_4\obj\Debug\Threads_4.exe
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_4\obj\Debug\Threads_4.pdb
