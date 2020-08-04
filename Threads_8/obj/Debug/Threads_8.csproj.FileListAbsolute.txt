@@ -1,0 +1,6 @@
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_8\bin\Debug\Threads_8.exe.config
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_8\bin\Debug\Threads_8.exe
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_8\bin\Debug\Threads_8.pdb
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_8\obj\Debug\Threads_8.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_8\obj\Debug\Threads_8.exe
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_8\obj\Debug\Threads_8.pdb
