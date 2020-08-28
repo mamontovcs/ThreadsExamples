@@ -1,0 +1,7 @@
+C:\Users\Vitalik\source\repos\ConsoleApp17\Thereads_9\bin\Debug\Thereads_9.exe.config
+C:\Users\Vitalik\source\repos\ConsoleApp17\Thereads_9\bin\Debug\Thereads_9.exe
+C:\Users\Vitalik\source\repos\ConsoleApp17\Thereads_9\bin\Debug\Thereads_9.pdb
+C:\Users\Vitalik\source\repos\ConsoleApp17\Thereads_9\obj\Debug\Threads_9.csprojAssemblyReference.cache
+C:\Users\Vitalik\source\repos\ConsoleApp17\Thereads_9\obj\Debug\Threads_9.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\source\repos\ConsoleApp17\Thereads_9\obj\Debug\Thereads_9.exe
+C:\Users\Vitalik\source\repos\ConsoleApp17\Thereads_9\obj\Debug\Thereads_9.pdb

@@ -1,0 +1,15 @@
+﻿<Window x:Class="Threads_10_Async_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Threads_10_Async_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="BUTTON 1" HorizontalAlignment="Left" Margin="234,208,0,0" VerticalAlignment="Top" Width="316" Height="54" Click="Button_Click_1"/>
+        <Button Content="BUTTON 2" HorizontalAlignment="Left" Margin="339,309,0,0" VerticalAlignment="Top" Width="104" Height="75" Click="Button_Click"/>
+        <TextBox Name="MyText" HorizontalAlignment="Left" Height="102" Margin="234,79,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="316" TextChanged="TextBox_TextChanged"/>
+
+    </Grid>
+</Window>

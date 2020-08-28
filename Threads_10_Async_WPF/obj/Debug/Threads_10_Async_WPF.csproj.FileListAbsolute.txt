@@ -1,0 +1,15 @@
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\bin\Debug\Threads_10_Async_WPF.exe.config
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\bin\Debug\Threads_10_Async_WPF.exe
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\bin\Debug\Threads_10_Async_WPF.pdb
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\obj\Debug\Threads_10_Async_WPF.csprojAssemblyReference.cache
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\obj\Debug\App.g.cs
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\obj\Debug\Threads_10_Async_WPF_MarkupCompile.cache
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\obj\Debug\Threads_10_Async_WPF_MarkupCompile.lref
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\obj\Debug\MainWindow.baml
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\obj\Debug\Threads_10_Async_WPF.g.resources
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\obj\Debug\Threads_10_Async_WPF.Properties.Resources.resources
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\obj\Debug\Threads_10_Async_WPF.csproj.GenerateResource.cache
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\obj\Debug\Threads_10_Async_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\obj\Debug\Threads_10_Async_WPF.exe
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async_WPF\obj\Debug\Threads_10_Async_WPF.pdb

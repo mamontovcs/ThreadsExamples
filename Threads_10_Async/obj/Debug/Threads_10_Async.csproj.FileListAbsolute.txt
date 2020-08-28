@@ -1,0 +1,7 @@
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async\bin\Debug\Threads_10_Async.exe.config
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async\bin\Debug\Threads_10_Async.exe
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async\bin\Debug\Threads_10_Async.pdb
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async\obj\Debug\Threads_10_Async.csprojAssemblyReference.cache
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async\obj\Debug\Threads_10_Async.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async\obj\Debug\Threads_10_Async.exe
+C:\Users\Vitalik\source\repos\ConsoleApp17\Threads_10_Async\obj\Debug\Threads_10_Async.pdb
